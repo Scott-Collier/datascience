@@ -1,6 +1,6 @@
 # datascience
 A website dedicated to Data Science
 
-## <u>Table of Contents</u>
+## Table of Contents
 
 (work in progress)
