@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Scott-Collier/datascience/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Check the [Pages file](https://scott-collier.github.com/datascience/Pages/index.html)
+Check the [Pages file](https://scott-collier.github.io/datascience/Pages/index.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
